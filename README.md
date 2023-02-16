@@ -1,6 +1,6 @@
 # Django Practice Assessment
 
-__Name:__
+__Name:__ Carlos F Revilla
 
-__Computing ID:__
+__Computing ID:__ cfr5spw
 
